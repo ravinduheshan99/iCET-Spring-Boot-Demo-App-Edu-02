@@ -1,0 +1,8 @@
+
+
+java:S3655;"HCall "byId.isPresent()" or "!byId.isEmpty()" before accessing the value.(ÊÂçúÿÿÿÿ8èœéó1J$136bb872-4ca1-459f-8189-5086a615fa9f
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8óó‹éó1J$4fc3d882-3883-4c1f-8d57-24831ece0cb1
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8óó‹éó1J$ce8bb616-770c-4c99-acdc-1503de682d58
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ËøÈşÿÿÿÿ8ƒô‹éó1J$f45416a4-f559-43ad-8b34-2d0222da2a6e
